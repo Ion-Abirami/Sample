@@ -1,0 +1,16 @@
+.column{
+    margin-left: 1rem;
+}
+.fontAwesome {
+    font-family: 'Helvetica', FontAwesome, sans-serif;
+  }
+body {
+  background-color: lightblue;
+  min-height: 100vh;
+  height: 100%;
+}
+
+input {
+    color: navy;
+    margin-left: 20px;
+  }
